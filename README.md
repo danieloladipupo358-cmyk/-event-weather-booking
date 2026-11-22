@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SETMORE project files
 
 The runnable apps are in the nested `event-weather-booking/` directory. The workspace root now has convenience scripts, so you can start the customer site from this folder with `npm run dev`.
@@ -11,3 +12,7 @@ The runnable apps are in the nested `event-weather-booking/` directory. The work
 - API setup and environment variables: `event-weather-booking/apps/api/README.md` and `event-weather-booking/apps/api/.env.example`
 
 Run `npm run dev` here to start the customer site. Run `npm run dev:api` here to start the API when needed. Local demo authentication works without PostgreSQL; the API demo role and local account instructions are in `event-weather-booking/apps/api/README.md`.
+=======
+# -event-weather-booking
+ event-weather-booking
+>>>>>>> 9ad26310ac8bfe7090d6abcb993f6836095dac2a
